@@ -1,0 +1,22 @@
+{
+  "name": "firstnpmpack",
+  "version": "1.0.0",
+  "description": "This is the first npm pack",
+  "main": "npmpack.js",
+  "scripts": {
+    "test": "npm link"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Umaritis/npmrepo.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "mumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umaritis/npmrepo/issues"
+  },
+  "homepage": "https://github.com/Umaritis/npmrepo#readme"
+}
