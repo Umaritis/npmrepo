@@ -1,5 +1,5 @@
 {
-  "name": "firstnpmpack",
+  "name": "firstnpmpackbymu",
   "version": "1.0.0",
   "description": "This is the first npm pack",
   "main": "npmpack.js",

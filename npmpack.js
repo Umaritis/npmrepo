@@ -4,6 +4,6 @@ export default function fewfun(a,b){
         sub: a - b,
         mul: a * b,
         divide: a / b,
-        }
+        };
 }
 
